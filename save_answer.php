@@ -26,6 +26,11 @@ $query = "UPDATE survey_responses SET `$field`=? WHERE session_id=?";
 $upd = $mysqli->prepare($query);
 $upd->bind_param('ss', $value, $session_id);
 $upd->execute();
+if ($upd->errno) {
+    error_log("Database update error: " . $upd->error);
+    http_response_code(500);
+    exit('Failed to update survey response');
+}
 $upd->close();
 $mysqli->close();
 echo 'ok';
