@@ -1,0 +1,9 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+.container { max-width: 800px; margin: auto; padding: 20px; }
+.btn { display: inline-block; padding: 10px 20px; background:#0069d9; color:#fff; text-decoration:none; border-radius:4px; }
+.btn:hover { background:#0053ba; }
+.errors { color: red; }
+ul { padding-left:20px; }
+@media (max-width:600px) {
+    .container { padding: 10px; }
+}

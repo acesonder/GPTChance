@@ -1,66 +1,39 @@
 <?php
 session_start();
-if (!isset($_SESSION['session_id'])) {
-    $_SESSION['session_id'] = uniqid('resp_', true);
-}
-$session_id = $_SESSION['session_id'];
 ?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Survey</title>
-<style>
-body { font-family: Arial, sans-serif; margin: 20px; }
-form div { margin-bottom: 10px; }
-label { display: block; }
-</style>
-<script>
-var sessionId = "<?php echo $session_id; ?>";
-function saveAnswer(field, value) {
-    var formData = new FormData();
-    formData.append('session_id', sessionId);
-    formData.append('field', field);
-    formData.append('value', value);
-    fetch('save_answer.php', { method: 'POST', body: formData });
-}
-</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cobourg Helping Community Housing</title>
+<link rel="stylesheet" href="styles.css">
 </head>
 <body>
-<h1>Consent Form</h1>
-<p>Please indicate your consent to participate in this survey.</p>
-<label><input type="checkbox" id="consent"> I consent to participate in this survey.</label>
-<div id="survey" style="display:none;">
-<form id="surveyForm">
-<div>
-<label>Age: <input type="number" name="age" onchange="saveAnswer('age', this.value)"></label>
+<div class="container">
+<h1>Cobourg Helping Community Housing</h1>
+<p>Supporting individuals experiencing housing insecurities through compassion, understanding, and action.</p>
+<a href="login.php" class="btn">Login to Continue</a>
+<section class="intro">
+<h2>Share Your Voice, Shape Our Support</h2>
+<p>Your experiences matter. By completing our survey, you will help us understand your needs better and improve how we advocate and support you and others in similar situations.</p>
+<p class="notice"><strong>Mature Content Notice:</strong> This survey contains questions about sensitive topics including mental health, substance use, trauma history, and personal experiences. We respect your privacy and treat all responses as strictly confidential: you can opt to participate anonymously—no name, date of birth, or registration details are required if you select “Anonymous” on the consent form. Feel free to skip any question you’re not comfortable answering.</p>
+<p>Please login or register to access the survey.</p>
+</section>
+<section class="help">
+<h3>How We Help</h3>
+<ul>
+<li>Referral to Emergency shelter services</li>
+<li>Housing support knowledge and referrals</li>
+<li>Connections to mental health resources</li>
+<li>Substance use support and harm reduction</li>
+<li>Food Bank assistance</li>
+<li>Personal identification assistance</li>
+<li>Employment guidance and training by referrals</li>
+</ul>
+</section>
+<p class="center">Ready to Begin?</p>
+<a href="register.php" class="btn">Login/Register to Start Survey</a>
 </div>
-<div>
-<label>Gender:
-<select name="gender" onchange="saveAnswer('gender', this.value)">
-<option value="">--select--</option>
-<option value="male">Male</option>
-<option value="female">Female</option>
-<option value="other">Other</option>
-</select>
-</label>
-</div>
-<div>
-<label>Self-described gender: <input type="text" name="gender_self" onchange="saveAnswer('gender_self', this.value)"></label>
-</div>
-<?php for ($i=1; $i<=56; $i++): ?>
-<div>
-<label>Question <?php echo $i; ?>:
-<input type="text" name="q<?php echo $i; ?>" onchange="saveAnswer('q<?php echo $i; ?>', this.value)">
-</label>
-</div>
-<?php endfor; ?>
-</form>
-</div>
-<script>
-document.getElementById('consent').addEventListener('change', function() {
-    document.getElementById('survey').style.display = this.checked ? 'block' : 'none';
-});
-</script>
 </body>
 </html>
