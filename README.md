@@ -81,3 +81,21 @@ CREATE TABLE survey_responses (
 ## Notes
 * Answers are optional; the survey saves each field after it changes.
 * Modify `.gitignore` if you use additional environment files or vendor directories.
+
+## User Accounts
+To support login and consent, create a `users` table:
+
+```sql
+CREATE TABLE users (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    username VARCHAR(50) UNIQUE,
+    first_name VARCHAR(100),
+    last_name VARCHAR(100),
+    dob DATE,
+    password_hash VARCHAR(255),
+    sec_question VARCHAR(255),
+    sec_answer VARCHAR(255)
+);
+```
+
+Access `index.php` to read about the survey, then register or login to start `survey.php`.
