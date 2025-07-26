@@ -99,3 +99,22 @@ CREATE TABLE users (
 ```
 
 Access `index.php` to read about the survey, then register or login to start `survey.php`.
+
+## Case Management Module
+
+The application now includes a simple case management portal. Create a `cases` table:
+
+```sql
+CREATE TABLE cases (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    title VARCHAR(255),
+    description TEXT,
+    status VARCHAR(50)
+);
+```
+
+Login as `admin` to access `admin.php` and enable features for the `admin` or `client` roles. Users can visit `portal.php` after logging in to access enabled features such as creating and updating cases.
+
+## Feature Catalog
+
+`features.json` lists all available modules. Use `admin.php` to enable or disable each feature per role. The catalog now includes user experience options like dark mode and dashboard widgets, security controls, case management enhancements, survey tools, collaboration features, analytics, admin utilities, and mobile integrations.
