@@ -1,0 +1,14 @@
+{
+  "admin": [
+    "case_creation",
+    "case_templates",
+    "case_updates",
+    "advanced_settings",
+    "ui_themes",
+    "widgets",
+    "analytics_reporting"
+  ],
+  "client": [
+    "case_updates"
+  ]
+}

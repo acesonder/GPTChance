@@ -1,0 +1,1727 @@
+{
+  "features": [
+    {
+      "key": "case_creation",
+      "description": "Create new cases"
+    },
+    {
+      "key": "case_templates",
+      "description": "Use templates for cases"
+    },
+    {
+      "key": "case_updates",
+      "description": "Update existing cases"
+    },
+    {
+      "key": "advanced_settings",
+      "description": "Advanced configuration"
+    },
+    {
+      "key": "ui_themes",
+      "description": "Theme customization"
+    },
+    {
+      "key": "widgets",
+      "description": "UI widgets"
+    },
+    {
+      "key": "analytics_reporting",
+      "description": "Reporting and analytics"
+    },
+    {
+      "key": "feature_8",
+      "description": "Placeholder feature 8"
+    },
+    {
+      "key": "feature_9",
+      "description": "Placeholder feature 9"
+    },
+    {
+      "key": "feature_10",
+      "description": "Placeholder feature 10"
+    },
+    {
+      "key": "feature_11",
+      "description": "Placeholder feature 11"
+    },
+    {
+      "key": "feature_12",
+      "description": "Placeholder feature 12"
+    },
+    {
+      "key": "feature_13",
+      "description": "Placeholder feature 13"
+    },
+    {
+      "key": "feature_14",
+      "description": "Placeholder feature 14"
+    },
+    {
+      "key": "feature_15",
+      "description": "Placeholder feature 15"
+    },
+    {
+      "key": "feature_16",
+      "description": "Placeholder feature 16"
+    },
+    {
+      "key": "feature_17",
+      "description": "Placeholder feature 17"
+    },
+    {
+      "key": "feature_18",
+      "description": "Placeholder feature 18"
+    },
+    {
+      "key": "feature_19",
+      "description": "Placeholder feature 19"
+    },
+    {
+      "key": "feature_20",
+      "description": "Placeholder feature 20"
+    },
+    {
+      "key": "feature_21",
+      "description": "Placeholder feature 21"
+    },
+    {
+      "key": "feature_22",
+      "description": "Placeholder feature 22"
+    },
+    {
+      "key": "feature_23",
+      "description": "Placeholder feature 23"
+    },
+    {
+      "key": "feature_24",
+      "description": "Placeholder feature 24"
+    },
+    {
+      "key": "feature_25",
+      "description": "Placeholder feature 25"
+    },
+    {
+      "key": "feature_26",
+      "description": "Placeholder feature 26"
+    },
+    {
+      "key": "feature_27",
+      "description": "Placeholder feature 27"
+    },
+    {
+      "key": "feature_28",
+      "description": "Placeholder feature 28"
+    },
+    {
+      "key": "feature_29",
+      "description": "Placeholder feature 29"
+    },
+    {
+      "key": "feature_30",
+      "description": "Placeholder feature 30"
+    },
+    {
+      "key": "feature_31",
+      "description": "Placeholder feature 31"
+    },
+    {
+      "key": "feature_32",
+      "description": "Placeholder feature 32"
+    },
+    {
+      "key": "feature_33",
+      "description": "Placeholder feature 33"
+    },
+    {
+      "key": "feature_34",
+      "description": "Placeholder feature 34"
+    },
+    {
+      "key": "feature_35",
+      "description": "Placeholder feature 35"
+    },
+    {
+      "key": "feature_36",
+      "description": "Placeholder feature 36"
+    },
+    {
+      "key": "feature_37",
+      "description": "Placeholder feature 37"
+    },
+    {
+      "key": "feature_38",
+      "description": "Placeholder feature 38"
+    },
+    {
+      "key": "feature_39",
+      "description": "Placeholder feature 39"
+    },
+    {
+      "key": "feature_40",
+      "description": "Placeholder feature 40"
+    },
+    {
+      "key": "feature_41",
+      "description": "Placeholder feature 41"
+    },
+    {
+      "key": "feature_42",
+      "description": "Placeholder feature 42"
+    },
+    {
+      "key": "feature_43",
+      "description": "Placeholder feature 43"
+    },
+    {
+      "key": "feature_44",
+      "description": "Placeholder feature 44"
+    },
+    {
+      "key": "feature_45",
+      "description": "Placeholder feature 45"
+    },
+    {
+      "key": "feature_46",
+      "description": "Placeholder feature 46"
+    },
+    {
+      "key": "feature_47",
+      "description": "Placeholder feature 47"
+    },
+    {
+      "key": "feature_48",
+      "description": "Placeholder feature 48"
+    },
+    {
+      "key": "feature_49",
+      "description": "Placeholder feature 49"
+    },
+    {
+      "key": "feature_50",
+      "description": "Placeholder feature 50"
+    },
+    {
+      "key": "feature_51",
+      "description": "Placeholder feature 51"
+    },
+    {
+      "key": "feature_52",
+      "description": "Placeholder feature 52"
+    },
+    {
+      "key": "feature_53",
+      "description": "Placeholder feature 53"
+    },
+    {
+      "key": "feature_54",
+      "description": "Placeholder feature 54"
+    },
+    {
+      "key": "feature_55",
+      "description": "Placeholder feature 55"
+    },
+    {
+      "key": "feature_56",
+      "description": "Placeholder feature 56"
+    },
+    {
+      "key": "feature_57",
+      "description": "Placeholder feature 57"
+    },
+    {
+      "key": "feature_58",
+      "description": "Placeholder feature 58"
+    },
+    {
+      "key": "feature_59",
+      "description": "Placeholder feature 59"
+    },
+    {
+      "key": "feature_60",
+      "description": "Placeholder feature 60"
+    },
+    {
+      "key": "feature_61",
+      "description": "Placeholder feature 61"
+    },
+    {
+      "key": "feature_62",
+      "description": "Placeholder feature 62"
+    },
+    {
+      "key": "feature_63",
+      "description": "Placeholder feature 63"
+    },
+    {
+      "key": "feature_64",
+      "description": "Placeholder feature 64"
+    },
+    {
+      "key": "feature_65",
+      "description": "Placeholder feature 65"
+    },
+    {
+      "key": "feature_66",
+      "description": "Placeholder feature 66"
+    },
+    {
+      "key": "feature_67",
+      "description": "Placeholder feature 67"
+    },
+    {
+      "key": "feature_68",
+      "description": "Placeholder feature 68"
+    },
+    {
+      "key": "feature_69",
+      "description": "Placeholder feature 69"
+    },
+    {
+      "key": "feature_70",
+      "description": "Placeholder feature 70"
+    },
+    {
+      "key": "feature_71",
+      "description": "Placeholder feature 71"
+    },
+    {
+      "key": "feature_72",
+      "description": "Placeholder feature 72"
+    },
+    {
+      "key": "feature_73",
+      "description": "Placeholder feature 73"
+    },
+    {
+      "key": "feature_74",
+      "description": "Placeholder feature 74"
+    },
+    {
+      "key": "feature_75",
+      "description": "Placeholder feature 75"
+    },
+    {
+      "key": "feature_76",
+      "description": "Placeholder feature 76"
+    },
+    {
+      "key": "feature_77",
+      "description": "Placeholder feature 77"
+    },
+    {
+      "key": "feature_78",
+      "description": "Placeholder feature 78"
+    },
+    {
+      "key": "feature_79",
+      "description": "Placeholder feature 79"
+    },
+    {
+      "key": "feature_80",
+      "description": "Placeholder feature 80"
+    },
+    {
+      "key": "feature_81",
+      "description": "Placeholder feature 81"
+    },
+    {
+      "key": "feature_82",
+      "description": "Placeholder feature 82"
+    },
+    {
+      "key": "feature_83",
+      "description": "Placeholder feature 83"
+    },
+    {
+      "key": "feature_84",
+      "description": "Placeholder feature 84"
+    },
+    {
+      "key": "feature_85",
+      "description": "Placeholder feature 85"
+    },
+    {
+      "key": "feature_86",
+      "description": "Placeholder feature 86"
+    },
+    {
+      "key": "feature_87",
+      "description": "Placeholder feature 87"
+    },
+    {
+      "key": "feature_88",
+      "description": "Placeholder feature 88"
+    },
+    {
+      "key": "feature_89",
+      "description": "Placeholder feature 89"
+    },
+    {
+      "key": "feature_90",
+      "description": "Placeholder feature 90"
+    },
+    {
+      "key": "feature_91",
+      "description": "Placeholder feature 91"
+    },
+    {
+      "key": "feature_92",
+      "description": "Placeholder feature 92"
+    },
+    {
+      "key": "feature_93",
+      "description": "Placeholder feature 93"
+    },
+    {
+      "key": "feature_94",
+      "description": "Placeholder feature 94"
+    },
+    {
+      "key": "feature_95",
+      "description": "Placeholder feature 95"
+    },
+    {
+      "key": "feature_96",
+      "description": "Placeholder feature 96"
+    },
+    {
+      "key": "feature_97",
+      "description": "Placeholder feature 97"
+    },
+    {
+      "key": "feature_98",
+      "description": "Placeholder feature 98"
+    },
+    {
+      "key": "feature_99",
+      "description": "Placeholder feature 99"
+    },
+    {
+      "key": "feature_100",
+      "description": "Placeholder feature 100"
+    },
+    {
+      "key": "feature_101",
+      "description": "Placeholder feature 101"
+    },
+    {
+      "key": "feature_102",
+      "description": "Placeholder feature 102"
+    },
+    {
+      "key": "feature_103",
+      "description": "Placeholder feature 103"
+    },
+    {
+      "key": "feature_104",
+      "description": "Placeholder feature 104"
+    },
+    {
+      "key": "feature_105",
+      "description": "Placeholder feature 105"
+    },
+    {
+      "key": "feature_106",
+      "description": "Placeholder feature 106"
+    },
+    {
+      "key": "feature_107",
+      "description": "Placeholder feature 107"
+    },
+    {
+      "key": "feature_108",
+      "description": "Placeholder feature 108"
+    },
+    {
+      "key": "feature_109",
+      "description": "Placeholder feature 109"
+    },
+    {
+      "key": "feature_110",
+      "description": "Placeholder feature 110"
+    },
+    {
+      "key": "feature_111",
+      "description": "Placeholder feature 111"
+    },
+    {
+      "key": "feature_112",
+      "description": "Placeholder feature 112"
+    },
+    {
+      "key": "feature_113",
+      "description": "Placeholder feature 113"
+    },
+    {
+      "key": "feature_114",
+      "description": "Placeholder feature 114"
+    },
+    {
+      "key": "feature_115",
+      "description": "Placeholder feature 115"
+    },
+    {
+      "key": "feature_116",
+      "description": "Placeholder feature 116"
+    },
+    {
+      "key": "feature_117",
+      "description": "Placeholder feature 117"
+    },
+    {
+      "key": "feature_118",
+      "description": "Placeholder feature 118"
+    },
+    {
+      "key": "feature_119",
+      "description": "Placeholder feature 119"
+    },
+    {
+      "key": "feature_120",
+      "description": "Placeholder feature 120"
+    },
+    {
+      "key": "feature_121",
+      "description": "Placeholder feature 121"
+    },
+    {
+      "key": "feature_122",
+      "description": "Placeholder feature 122"
+    },
+    {
+      "key": "feature_123",
+      "description": "Placeholder feature 123"
+    },
+    {
+      "key": "feature_124",
+      "description": "Placeholder feature 124"
+    },
+    {
+      "key": "feature_125",
+      "description": "Placeholder feature 125"
+    },
+    {
+      "key": "feature_126",
+      "description": "Placeholder feature 126"
+    },
+    {
+      "key": "feature_127",
+      "description": "Placeholder feature 127"
+    },
+    {
+      "key": "feature_128",
+      "description": "Placeholder feature 128"
+    },
+    {
+      "key": "feature_129",
+      "description": "Placeholder feature 129"
+    },
+    {
+      "key": "feature_130",
+      "description": "Placeholder feature 130"
+    },
+    {
+      "key": "feature_131",
+      "description": "Placeholder feature 131"
+    },
+    {
+      "key": "feature_132",
+      "description": "Placeholder feature 132"
+    },
+    {
+      "key": "feature_133",
+      "description": "Placeholder feature 133"
+    },
+    {
+      "key": "feature_134",
+      "description": "Placeholder feature 134"
+    },
+    {
+      "key": "feature_135",
+      "description": "Placeholder feature 135"
+    },
+    {
+      "key": "feature_136",
+      "description": "Placeholder feature 136"
+    },
+    {
+      "key": "feature_137",
+      "description": "Placeholder feature 137"
+    },
+    {
+      "key": "feature_138",
+      "description": "Placeholder feature 138"
+    },
+    {
+      "key": "feature_139",
+      "description": "Placeholder feature 139"
+    },
+    {
+      "key": "feature_140",
+      "description": "Placeholder feature 140"
+    },
+    {
+      "key": "feature_141",
+      "description": "Placeholder feature 141"
+    },
+    {
+      "key": "feature_142",
+      "description": "Placeholder feature 142"
+    },
+    {
+      "key": "feature_143",
+      "description": "Placeholder feature 143"
+    },
+    {
+      "key": "feature_144",
+      "description": "Placeholder feature 144"
+    },
+    {
+      "key": "feature_145",
+      "description": "Placeholder feature 145"
+    },
+    {
+      "key": "feature_146",
+      "description": "Placeholder feature 146"
+    },
+    {
+      "key": "feature_147",
+      "description": "Placeholder feature 147"
+    },
+    {
+      "key": "feature_148",
+      "description": "Placeholder feature 148"
+    },
+    {
+      "key": "feature_149",
+      "description": "Placeholder feature 149"
+    },
+    {
+      "key": "feature_150",
+      "description": "Placeholder feature 150"
+    },
+    {
+      "key": "feature_151",
+      "description": "Placeholder feature 151"
+    },
+    {
+      "key": "feature_152",
+      "description": "Placeholder feature 152"
+    },
+    {
+      "key": "feature_153",
+      "description": "Placeholder feature 153"
+    },
+    {
+      "key": "feature_154",
+      "description": "Placeholder feature 154"
+    },
+    {
+      "key": "feature_155",
+      "description": "Placeholder feature 155"
+    },
+    {
+      "key": "feature_156",
+      "description": "Placeholder feature 156"
+    },
+    {
+      "key": "feature_157",
+      "description": "Placeholder feature 157"
+    },
+    {
+      "key": "feature_158",
+      "description": "Placeholder feature 158"
+    },
+    {
+      "key": "feature_159",
+      "description": "Placeholder feature 159"
+    },
+    {
+      "key": "feature_160",
+      "description": "Placeholder feature 160"
+    },
+    {
+      "key": "feature_161",
+      "description": "Placeholder feature 161"
+    },
+    {
+      "key": "feature_162",
+      "description": "Placeholder feature 162"
+    },
+    {
+      "key": "feature_163",
+      "description": "Placeholder feature 163"
+    },
+    {
+      "key": "feature_164",
+      "description": "Placeholder feature 164"
+    },
+    {
+      "key": "feature_165",
+      "description": "Placeholder feature 165"
+    },
+    {
+      "key": "feature_166",
+      "description": "Placeholder feature 166"
+    },
+    {
+      "key": "feature_167",
+      "description": "Placeholder feature 167"
+    },
+    {
+      "key": "feature_168",
+      "description": "Placeholder feature 168"
+    },
+    {
+      "key": "feature_169",
+      "description": "Placeholder feature 169"
+    },
+    {
+      "key": "feature_170",
+      "description": "Placeholder feature 170"
+    },
+    {
+      "key": "feature_171",
+      "description": "Placeholder feature 171"
+    },
+    {
+      "key": "feature_172",
+      "description": "Placeholder feature 172"
+    },
+    {
+      "key": "feature_173",
+      "description": "Placeholder feature 173"
+    },
+    {
+      "key": "feature_174",
+      "description": "Placeholder feature 174"
+    },
+    {
+      "key": "feature_175",
+      "description": "Placeholder feature 175"
+    },
+    {
+      "key": "feature_176",
+      "description": "Placeholder feature 176"
+    },
+    {
+      "key": "feature_177",
+      "description": "Placeholder feature 177"
+    },
+    {
+      "key": "feature_178",
+      "description": "Placeholder feature 178"
+    },
+    {
+      "key": "feature_179",
+      "description": "Placeholder feature 179"
+    },
+    {
+      "key": "feature_180",
+      "description": "Placeholder feature 180"
+    },
+    {
+      "key": "feature_181",
+      "description": "Placeholder feature 181"
+    },
+    {
+      "key": "feature_182",
+      "description": "Placeholder feature 182"
+    },
+    {
+      "key": "feature_183",
+      "description": "Placeholder feature 183"
+    },
+    {
+      "key": "feature_184",
+      "description": "Placeholder feature 184"
+    },
+    {
+      "key": "feature_185",
+      "description": "Placeholder feature 185"
+    },
+    {
+      "key": "feature_186",
+      "description": "Placeholder feature 186"
+    },
+    {
+      "key": "feature_187",
+      "description": "Placeholder feature 187"
+    },
+    {
+      "key": "feature_188",
+      "description": "Placeholder feature 188"
+    },
+    {
+      "key": "feature_189",
+      "description": "Placeholder feature 189"
+    },
+    {
+      "key": "feature_190",
+      "description": "Placeholder feature 190"
+    },
+    {
+      "key": "feature_191",
+      "description": "Placeholder feature 191"
+    },
+    {
+      "key": "feature_192",
+      "description": "Placeholder feature 192"
+    },
+    {
+      "key": "feature_193",
+      "description": "Placeholder feature 193"
+    },
+    {
+      "key": "feature_194",
+      "description": "Placeholder feature 194"
+    },
+    {
+      "key": "feature_195",
+      "description": "Placeholder feature 195"
+    },
+    {
+      "key": "feature_196",
+      "description": "Placeholder feature 196"
+    },
+    {
+      "key": "feature_197",
+      "description": "Placeholder feature 197"
+    },
+    {
+      "key": "feature_198",
+      "description": "Placeholder feature 198"
+    },
+    {
+      "key": "feature_199",
+      "description": "Placeholder feature 199"
+    },
+    {
+      "key": "feature_200",
+      "description": "Placeholder feature 200"
+    },
+    {
+      "key": "feature_201",
+      "description": "Placeholder feature 201"
+    },
+    {
+      "key": "feature_202",
+      "description": "Placeholder feature 202"
+    },
+    {
+      "key": "feature_203",
+      "description": "Placeholder feature 203"
+    },
+    {
+      "key": "feature_204",
+      "description": "Placeholder feature 204"
+    },
+    {
+      "key": "feature_205",
+      "description": "Placeholder feature 205"
+    },
+    {
+      "key": "feature_206",
+      "description": "Placeholder feature 206"
+    },
+    {
+      "key": "feature_207",
+      "description": "Placeholder feature 207"
+    },
+    {
+      "key": "feature_208",
+      "description": "Placeholder feature 208"
+    },
+    {
+      "key": "feature_209",
+      "description": "Placeholder feature 209"
+    },
+    {
+      "key": "feature_210",
+      "description": "Placeholder feature 210"
+    },
+    {
+      "key": "feature_211",
+      "description": "Placeholder feature 211"
+    },
+    {
+      "key": "feature_212",
+      "description": "Placeholder feature 212"
+    },
+    {
+      "key": "feature_213",
+      "description": "Placeholder feature 213"
+    },
+    {
+      "key": "feature_214",
+      "description": "Placeholder feature 214"
+    },
+    {
+      "key": "feature_215",
+      "description": "Placeholder feature 215"
+    },
+    {
+      "key": "feature_216",
+      "description": "Placeholder feature 216"
+    },
+    {
+      "key": "feature_217",
+      "description": "Placeholder feature 217"
+    },
+    {
+      "key": "feature_218",
+      "description": "Placeholder feature 218"
+    },
+    {
+      "key": "feature_219",
+      "description": "Placeholder feature 219"
+    },
+    {
+      "key": "feature_220",
+      "description": "Placeholder feature 220"
+    },
+    {
+      "key": "feature_221",
+      "description": "Placeholder feature 221"
+    },
+    {
+      "key": "feature_222",
+      "description": "Placeholder feature 222"
+    },
+    {
+      "key": "feature_223",
+      "description": "Placeholder feature 223"
+    },
+    {
+      "key": "feature_224",
+      "description": "Placeholder feature 224"
+    },
+    {
+      "key": "feature_225",
+      "description": "Placeholder feature 225"
+    },
+    {
+      "key": "feature_226",
+      "description": "Placeholder feature 226"
+    },
+    {
+      "key": "feature_227",
+      "description": "Placeholder feature 227"
+    },
+    {
+      "key": "feature_228",
+      "description": "Placeholder feature 228"
+    },
+    {
+      "key": "feature_229",
+      "description": "Placeholder feature 229"
+    },
+    {
+      "key": "feature_230",
+      "description": "Placeholder feature 230"
+    },
+    {
+      "key": "feature_231",
+      "description": "Placeholder feature 231"
+    },
+    {
+      "key": "feature_232",
+      "description": "Placeholder feature 232"
+    },
+    {
+      "key": "feature_233",
+      "description": "Placeholder feature 233"
+    },
+    {
+      "key": "feature_234",
+      "description": "Placeholder feature 234"
+    },
+    {
+      "key": "feature_235",
+      "description": "Placeholder feature 235"
+    },
+    {
+      "key": "feature_236",
+      "description": "Placeholder feature 236"
+    },
+    {
+      "key": "feature_237",
+      "description": "Placeholder feature 237"
+    },
+    {
+      "key": "feature_238",
+      "description": "Placeholder feature 238"
+    },
+    {
+      "key": "feature_239",
+      "description": "Placeholder feature 239"
+    },
+    {
+      "key": "feature_240",
+      "description": "Placeholder feature 240"
+    },
+    {
+      "key": "feature_241",
+      "description": "Placeholder feature 241"
+    },
+    {
+      "key": "feature_242",
+      "description": "Placeholder feature 242"
+    },
+    {
+      "key": "feature_243",
+      "description": "Placeholder feature 243"
+    },
+    {
+      "key": "feature_244",
+      "description": "Placeholder feature 244"
+    },
+    {
+      "key": "feature_245",
+      "description": "Placeholder feature 245"
+    },
+    {
+      "key": "feature_246",
+      "description": "Placeholder feature 246"
+    },
+    {
+      "key": "feature_247",
+      "description": "Placeholder feature 247"
+    },
+    {
+      "key": "feature_248",
+      "description": "Placeholder feature 248"
+    },
+    {
+      "key": "feature_249",
+      "description": "Placeholder feature 249"
+    },
+    {
+      "key": "feature_250",
+      "description": "Placeholder feature 250"
+    },
+    {
+      "key": "feature_251",
+      "description": "Placeholder feature 251"
+    },
+    {
+      "key": "feature_252",
+      "description": "Placeholder feature 252"
+    },
+    {
+      "key": "feature_253",
+      "description": "Placeholder feature 253"
+    },
+    {
+      "key": "feature_254",
+      "description": "Placeholder feature 254"
+    },
+    {
+      "key": "feature_255",
+      "description": "Placeholder feature 255"
+    },
+    {
+      "key": "feature_256",
+      "description": "Placeholder feature 256"
+    },
+    {
+      "key": "feature_257",
+      "description": "Placeholder feature 257"
+    },
+    {
+      "key": "feature_258",
+      "description": "Placeholder feature 258"
+    },
+    {
+      "key": "feature_259",
+      "description": "Placeholder feature 259"
+    },
+    {
+      "key": "feature_260",
+      "description": "Placeholder feature 260"
+    },
+    {
+      "key": "feature_261",
+      "description": "Placeholder feature 261"
+    },
+    {
+      "key": "feature_262",
+      "description": "Placeholder feature 262"
+    },
+    {
+      "key": "feature_263",
+      "description": "Placeholder feature 263"
+    },
+    {
+      "key": "feature_264",
+      "description": "Placeholder feature 264"
+    },
+    {
+      "key": "feature_265",
+      "description": "Placeholder feature 265"
+    },
+    {
+      "key": "feature_266",
+      "description": "Placeholder feature 266"
+    },
+    {
+      "key": "feature_267",
+      "description": "Placeholder feature 267"
+    },
+    {
+      "key": "feature_268",
+      "description": "Placeholder feature 268"
+    },
+    {
+      "key": "feature_269",
+      "description": "Placeholder feature 269"
+    },
+    {
+      "key": "feature_270",
+      "description": "Placeholder feature 270"
+    },
+    {
+      "key": "feature_271",
+      "description": "Placeholder feature 271"
+    },
+    {
+      "key": "feature_272",
+      "description": "Placeholder feature 272"
+    },
+    {
+      "key": "feature_273",
+      "description": "Placeholder feature 273"
+    },
+    {
+      "key": "feature_274",
+      "description": "Placeholder feature 274"
+    },
+    {
+      "key": "feature_275",
+      "description": "Placeholder feature 275"
+    },
+    {
+      "key": "feature_276",
+      "description": "Placeholder feature 276"
+    },
+    {
+      "key": "feature_277",
+      "description": "Placeholder feature 277"
+    },
+    {
+      "key": "feature_278",
+      "description": "Placeholder feature 278"
+    },
+    {
+      "key": "feature_279",
+      "description": "Placeholder feature 279"
+    },
+    {
+      "key": "feature_280",
+      "description": "Placeholder feature 280"
+    },
+    {
+      "key": "feature_281",
+      "description": "Placeholder feature 281"
+    },
+    {
+      "key": "feature_282",
+      "description": "Placeholder feature 282"
+    },
+    {
+      "key": "feature_283",
+      "description": "Placeholder feature 283"
+    },
+    {
+      "key": "feature_284",
+      "description": "Placeholder feature 284"
+    },
+    {
+      "key": "feature_285",
+      "description": "Placeholder feature 285"
+    },
+    {
+      "key": "feature_286",
+      "description": "Placeholder feature 286"
+    },
+    {
+      "key": "feature_287",
+      "description": "Placeholder feature 287"
+    },
+    {
+      "key": "feature_288",
+      "description": "Placeholder feature 288"
+    },
+    {
+      "key": "feature_289",
+      "description": "Placeholder feature 289"
+    },
+    {
+      "key": "feature_290",
+      "description": "Placeholder feature 290"
+    },
+    {
+      "key": "feature_291",
+      "description": "Placeholder feature 291"
+    },
+    {
+      "key": "feature_292",
+      "description": "Placeholder feature 292"
+    },
+    {
+      "key": "feature_293",
+      "description": "Placeholder feature 293"
+    },
+    {
+      "key": "feature_294",
+      "description": "Placeholder feature 294"
+    },
+    {
+      "key": "feature_295",
+      "description": "Placeholder feature 295"
+    },
+    {
+      "key": "feature_296",
+      "description": "Placeholder feature 296"
+    },
+    {
+      "key": "feature_297",
+      "description": "Placeholder feature 297"
+    },
+    {
+      "key": "feature_298",
+      "description": "Placeholder feature 298"
+    },
+    {
+      "key": "feature_299",
+      "description": "Placeholder feature 299"
+    },
+    {
+      "key": "feature_300",
+      "description": "Placeholder feature 300"
+    },
+    {
+      "key": "feature_301",
+      "description": "Placeholder feature 301"
+    },
+    {
+      "key": "feature_302",
+      "description": "Placeholder feature 302"
+    },
+    {
+      "key": "feature_303",
+      "description": "Placeholder feature 303"
+    },
+    {
+      "key": "feature_304",
+      "description": "Placeholder feature 304"
+    },
+    {
+      "key": "feature_305",
+      "description": "Placeholder feature 305"
+    },
+    {
+      "key": "feature_306",
+      "description": "Placeholder feature 306"
+    },
+    {
+      "key": "feature_307",
+      "description": "Placeholder feature 307"
+    },
+    {
+      "key": "feature_308",
+      "description": "Placeholder feature 308"
+    },
+    {
+      "key": "feature_309",
+      "description": "Placeholder feature 309"
+    },
+    {
+      "key": "feature_310",
+      "description": "Placeholder feature 310"
+    },
+    {
+      "key": "feature_311",
+      "description": "Placeholder feature 311"
+    },
+    {
+      "key": "feature_312",
+      "description": "Placeholder feature 312"
+    },
+    {
+      "key": "feature_313",
+      "description": "Placeholder feature 313"
+    },
+    {
+      "key": "feature_314",
+      "description": "Placeholder feature 314"
+    },
+    {
+      "key": "feature_315",
+      "description": "Placeholder feature 315"
+    },
+    {
+      "key": "feature_316",
+      "description": "Placeholder feature 316"
+    },
+    {
+      "key": "feature_317",
+      "description": "Placeholder feature 317"
+    },
+    {
+      "key": "feature_318",
+      "description": "Placeholder feature 318"
+    },
+    {
+      "key": "feature_319",
+      "description": "Placeholder feature 319"
+    },
+    {
+      "key": "feature_320",
+      "description": "Placeholder feature 320"
+    },
+    {
+      "key": "feature_321",
+      "description": "Placeholder feature 321"
+    },
+    {
+      "key": "feature_322",
+      "description": "Placeholder feature 322"
+    },
+    {
+      "key": "feature_323",
+      "description": "Placeholder feature 323"
+    },
+    {
+      "key": "feature_324",
+      "description": "Placeholder feature 324"
+    },
+    {
+      "key": "feature_325",
+      "description": "Placeholder feature 325"
+    },
+    {
+      "key": "feature_326",
+      "description": "Placeholder feature 326"
+    },
+    {
+      "key": "feature_327",
+      "description": "Placeholder feature 327"
+    },
+    {
+      "key": "feature_328",
+      "description": "Placeholder feature 328"
+    },
+    {
+      "key": "feature_329",
+      "description": "Placeholder feature 329"
+    },
+    {
+      "key": "feature_330",
+      "description": "Placeholder feature 330"
+    },
+    {
+      "key": "feature_331",
+      "description": "Placeholder feature 331"
+    },
+    {
+      "key": "feature_332",
+      "description": "Placeholder feature 332"
+    },
+    {
+      "key": "feature_333",
+      "description": "Placeholder feature 333"
+    },
+    {
+      "key": "feature_334",
+      "description": "Placeholder feature 334"
+    },
+    {
+      "key": "feature_335",
+      "description": "Placeholder feature 335"
+    },
+    {
+      "key": "feature_336",
+      "description": "Placeholder feature 336"
+    },
+    {
+      "key": "feature_337",
+      "description": "Placeholder feature 337"
+    },
+    {
+      "key": "feature_338",
+      "description": "Placeholder feature 338"
+    },
+    {
+      "key": "feature_339",
+      "description": "Placeholder feature 339"
+    },
+    {
+      "key": "feature_340",
+      "description": "Placeholder feature 340"
+    },
+    {
+      "key": "feature_341",
+      "description": "Placeholder feature 341"
+    },
+    {
+      "key": "feature_342",
+      "description": "Placeholder feature 342"
+    },
+    {
+      "key": "feature_343",
+      "description": "Placeholder feature 343"
+    },
+    {
+      "key": "feature_344",
+      "description": "Placeholder feature 344"
+    },
+    {
+      "key": "feature_345",
+      "description": "Placeholder feature 345"
+    },
+    {
+      "key": "feature_346",
+      "description": "Placeholder feature 346"
+    },
+    {
+      "key": "feature_347",
+      "description": "Placeholder feature 347"
+    },
+    {
+      "key": "feature_348",
+      "description": "Placeholder feature 348"
+    },
+    {
+      "key": "feature_349",
+      "description": "Placeholder feature 349"
+    },
+    {
+      "key": "feature_350",
+      "description": "Placeholder feature 350"
+    },
+    {
+      "key": "feature_351",
+      "description": "Placeholder feature 351"
+    },
+    {
+      "key": "feature_352",
+      "description": "Placeholder feature 352"
+    },
+    {
+      "key": "feature_353",
+      "description": "Placeholder feature 353"
+    },
+    {
+      "key": "feature_354",
+      "description": "Placeholder feature 354"
+    },
+    {
+      "key": "feature_355",
+      "description": "Placeholder feature 355"
+    },
+    {
+      "key": "feature_356",
+      "description": "Placeholder feature 356"
+    },
+    {
+      "key": "feature_357",
+      "description": "Placeholder feature 357"
+    },
+    {
+      "key": "feature_358",
+      "description": "Placeholder feature 358"
+    },
+    {
+      "key": "feature_359",
+      "description": "Placeholder feature 359"
+    },
+    {
+      "key": "feature_360",
+      "description": "Placeholder feature 360"
+    },
+    {
+      "key": "feature_361",
+      "description": "Placeholder feature 361"
+    },
+    {
+      "key": "feature_362",
+      "description": "Placeholder feature 362"
+    },
+    {
+      "key": "feature_363",
+      "description": "Placeholder feature 363"
+    },
+    {
+      "key": "feature_364",
+      "description": "Placeholder feature 364"
+    },
+    {
+      "key": "feature_365",
+      "description": "Placeholder feature 365"
+    },
+    {
+      "key": "feature_366",
+      "description": "Placeholder feature 366"
+    },
+    {
+      "key": "feature_367",
+      "description": "Placeholder feature 367"
+    },
+    {
+      "key": "feature_368",
+      "description": "Placeholder feature 368"
+    },
+    {
+      "key": "feature_369",
+      "description": "Placeholder feature 369"
+    },
+    {
+      "key": "feature_370",
+      "description": "Placeholder feature 370"
+    },
+    {
+      "key": "feature_371",
+      "description": "Placeholder feature 371"
+    },
+    {
+      "key": "feature_372",
+      "description": "Placeholder feature 372"
+    },
+    {
+      "key": "feature_373",
+      "description": "Placeholder feature 373"
+    },
+    {
+      "key": "feature_374",
+      "description": "Placeholder feature 374"
+    },
+    {
+      "key": "feature_375",
+      "description": "Placeholder feature 375"
+    },
+    {
+      "key": "feature_376",
+      "description": "Placeholder feature 376"
+    },
+    {
+      "key": "feature_377",
+      "description": "Placeholder feature 377"
+    },
+    {
+      "key": "feature_378",
+      "description": "Placeholder feature 378"
+    },
+    {
+      "key": "feature_379",
+      "description": "Placeholder feature 379"
+    },
+    {
+      "key": "feature_380",
+      "description": "Placeholder feature 380"
+    },
+    {
+      "key": "feature_381",
+      "description": "Placeholder feature 381"
+    },
+    {
+      "key": "feature_382",
+      "description": "Placeholder feature 382"
+    },
+    {
+      "key": "feature_383",
+      "description": "Placeholder feature 383"
+    },
+    {
+      "key": "feature_384",
+      "description": "Placeholder feature 384"
+    },
+    {
+      "key": "feature_385",
+      "description": "Placeholder feature 385"
+    },
+    {
+      "key": "feature_386",
+      "description": "Placeholder feature 386"
+    },
+    {
+      "key": "feature_387",
+      "description": "Placeholder feature 387"
+    },
+    {
+      "key": "feature_388",
+      "description": "Placeholder feature 388"
+    },
+    {
+      "key": "feature_389",
+      "description": "Placeholder feature 389"
+    },
+    {
+      "key": "feature_390",
+      "description": "Placeholder feature 390"
+    },
+    {
+      "key": "feature_391",
+      "description": "Placeholder feature 391"
+    },
+    {
+      "key": "feature_392",
+      "description": "Placeholder feature 392"
+    },
+    {
+      "key": "feature_393",
+      "description": "Placeholder feature 393"
+    },
+    {
+      "key": "feature_394",
+      "description": "Placeholder feature 394"
+    },
+    {
+      "key": "feature_395",
+      "description": "Placeholder feature 395"
+    },
+    {
+      "key": "feature_396",
+      "description": "Placeholder feature 396"
+    },
+    {
+      "key": "feature_397",
+      "description": "Placeholder feature 397"
+    },
+    {
+      "key": "feature_398",
+      "description": "Placeholder feature 398"
+    },
+    {
+      "key": "feature_399",
+      "description": "Placeholder feature 399"
+    },
+    {
+      "key": "feature_400",
+      "description": "Placeholder feature 400"
+    },
+    { "key": "dark_mode", "description": "Dark mode toggle" },
+    { "key": "dyslexia_font", "description": "Dyslexia-friendly font" },
+    { "key": "high_contrast_mode", "description": "High-contrast toggle" },
+    { "key": "large_text_mode", "description": "Large text option" },
+    { "key": "draggable_widgets", "description": "Draggable dashboard widgets" },
+    { "key": "widget_size_adjuster", "description": "Widget size adjuster" },
+    { "key": "dashboard_layout_presets", "description": "Dashboard layout presets" },
+    { "key": "onboarding_tour", "description": "Automated onboarding tour" },
+    { "key": "help_tooltips", "description": "Contextual help tooltips" },
+    { "key": "form_undo_redo", "description": "Undo/redo in forms" },
+    { "key": "autosave_forms", "description": "Autosave draft forms" },
+    { "key": "keyboard_shortcuts", "description": "Keyboard shortcuts" },
+    { "key": "screen_reader_mode", "description": "Screen-reader mode" },
+    { "key": "password_complexity_rules", "description": "Password complexity rules" },
+    { "key": "session_timeout_warning", "description": "Session timeout warning" },
+    { "key": "account_lockout", "description": "Account lockout on failed logins" },
+    { "key": "login_audit_trail", "description": "Audit trail of login attempts" },
+    { "key": "password_history", "description": "Password history (no reuse)" },
+    { "key": "case_priority_levels", "description": "Case priority levels" },
+    { "key": "case_tagging", "description": "Case tagging / categorization" },
+    { "key": "drag_drop_attachments", "description": "Drag-and-drop file attachments" },
+    { "key": "bulk_case_assignment", "description": "Bulk case assignment" },
+    { "key": "case_sla_timers", "description": "Case SLA timers" },
+    { "key": "calendar_integration", "description": "Calendar integration (iCal)" },
+    { "key": "kanban_case_board", "description": "Kanban-style case board" },
+    { "key": "case_cloning", "description": "Case cloning" },
+    { "key": "case_merging", "description": "Case merging" },
+    { "key": "case_archiving", "description": "Case archiving" },
+    { "key": "case_chat_thread", "description": "Case-related chat thread" },
+    { "key": "case_notes_visibility", "description": "Private/public case notes" },
+    { "key": "case_stakeholder_list", "description": "Case stakeholder list" },
+    { "key": "sla_breach_alerts", "description": "SLA breach alerts" },
+    { "key": "case_time_tracking", "description": "Case time-tracking logs" },
+    { "key": "case_budget_tracking", "description": "Case budget tracking" },
+    { "key": "case_milestones_gantt", "description": "Case milestones & Gantt chart" },
+    { "key": "case_template_versioning", "description": "Case template versioning" },
+    { "key": "conditional_branching", "description": "Conditional branching questions" },
+    { "key": "rich_media_questions", "description": "Rich-media questions (image/upload)" },
+    { "key": "signature_capture", "description": "Signature capture" },
+    { "key": "question_timer", "description": "Timer per question" },
+    { "key": "anonymous_survey_mode", "description": "Anonymous survey mode" },
+    { "key": "random_question_order", "description": "Randomized question order" },
+    { "key": "multilanguage_surveys", "description": "Multi-language surveys" },
+    { "key": "pdf_export_results", "description": "PDF export of results" },
+    { "key": "staff_comment_per_question", "description": "Staff-comment per Q" },
+    { "key": "survey_reminders", "description": "Automated reminders for incomplete surveys" },
+    { "key": "survey_templates_library", "description": "Survey templates library" },
+    { "key": "public_survey_links", "description": "Public survey links" },
+    { "key": "survey_analytics_dashboard", "description": "Survey analytics dashboard" },
+    { "key": "survey_response_heatmap", "description": "Heatmap of question responses" },
+    { "key": "cohort_analysis", "description": "Comparative cohort analysis" },
+    { "key": "sentiment_tagging", "description": "Open-text sentiment tagging" },
+    { "key": "avg_completion_time", "description": "Average completion time metric" },
+    { "key": "confidence_scale_questions", "description": "Confidence-scale questions" },
+    { "key": "nested_sub_surveys", "description": "Nested sub-surveys" },
+    { "key": "survey_revision_history", "description": "Survey revision history" },
+    { "key": "in_app_messaging", "description": "In-app messaging" },
+    { "key": "group_chat_rooms", "description": "Group chat rooms" },
+    { "key": "push_notifications", "description": "Push notifications" },
+    { "key": "document_repository", "description": "Shared document repository" },
+    { "key": "realtime_co_editing", "description": "Real-time co-editing of notes" },
+    { "key": "video_chat_embed", "description": "Video-chat embed" },
+    { "key": "contact_address_book", "description": "Contact address book" },
+    { "key": "case_discussion_threads", "description": "Discussion threads per case" },
+    { "key": "mentions", "description": "Mentions (@username)" },
+    { "key": "broadcast_all", "description": "@all broadcast" },
+    { "key": "message_attachments", "description": "Message attachments" },
+    { "key": "emoji_reactions", "description": "Emoji reactions" },
+    { "key": "polls_voting", "description": "Polls & voting" },
+    { "key": "meeting_scheduler", "description": "Meeting scheduler" },
+    { "key": "meeting_minutes", "description": "Meeting minutes capture" },
+    { "key": "slack_ms_teams_integration", "description": "Slack/MS Teams integration" },
+    { "key": "chatbot_triage", "description": "Chatbot triage assistant" },
+    { "key": "canned_responses", "description": "Canned responses" },
+    { "key": "custom_report_builder", "description": "Custom report builder" },
+    { "key": "scheduled_report_emails", "description": "Scheduled report emails" },
+    { "key": "kpi_dashboard", "description": "KPI dashboard" },
+    { "key": "cohort_retention_analysis", "description": "Cohort retention analysis" },
+    { "key": "funnel_analysis", "description": "Funnel analysis" },
+    { "key": "geo_heatmaps", "description": "Geo-heatmaps (client locations)" },
+    { "key": "predictive_risk_scoring", "description": "Predictive risk scoring" },
+    { "key": "export_to_excel", "description": "Export to Excel/CSV" },
+    { "key": "pdf_report_download", "description": "PDF report download" },
+    { "key": "graphical_drilldowns", "description": "Graphical drill-downs (charts)" },
+    { "key": "comparative_trend_lines", "description": "Comparative trend lines" },
+    { "key": "anomaly_alerts", "description": "Alert on anomalous metrics" },
+    { "key": "data_retention_settings", "description": "Data retention settings" },
+    { "key": "data_purge", "description": "Privacy-compliant data purge" },
+    { "key": "data_export_apis", "description": "Data export APIs" },
+    { "key": "permissions_editor", "description": "Role-based permissions editor" },
+    { "key": "feature_flag_import_export", "description": "Feature-flag bulk import/export" },
+    { "key": "maintenance_mode", "description": "Maintenance mode toggle" },
+    { "key": "multi_tenant_support", "description": "Multi-tenant support" },
+    { "key": "localization_settings", "description": "Localization & time zone settings" },
+    { "key": "audit_log_viewer", "description": "Audit log viewer" },
+    { "key": "data_backup_restore", "description": "Data backup & restore" },
+    { "key": "system_health_dashboard", "description": "System health dashboard" },
+    { "key": "api_key_management", "description": "API key management" },
+    { "key": "custom_branding", "description": "Custom branding (logos, colors)" },
+    { "key": "custom_domain_mapping", "description": "Custom domain mapping" },
+    { "key": "tos_acceptance_tracking", "description": "Terms-of-Service acceptance tracking" },
+    { "key": "gdpr_consent_flows", "description": "GDPR consent flows" },
+    { "key": "email_template_editor", "description": "Email template editor" },
+    { "key": "batch_user_import", "description": "Batch user import (CSV)" },
+    { "key": "automations", "description": "Automations / scheduled tasks" },
+    { "key": "log_level_switching", "description": "Log-level switching" },
+    { "key": "system_notifications_feed", "description": "System notifications feed" },
+    { "key": "email_bounce_handling", "description": "Email bounce handling" },
+    { "key": "reindex_search_data", "description": "Re-index search data" },
+    { "key": "e_signature", "description": "E-signature (DocuSign)" },
+    { "key": "text_to_speech", "description": "Text-to-speech for survey reading" },
+    { "key": "ocr_uploaded_docs", "description": "OCR on uploaded docs" },
+    { "key": "ai_answer_suggestions", "description": "AI-powered answer suggestions" },
+    { "key": "plugin_marketplace", "description": "Plugin marketplace" },
+    { "key": "custom_js_hooks", "description": "Custom JS hooks" },
+    { "key": "custom_php_hooks", "description": "Custom PHP hooks" },
+    { "key": "theme_marketplace", "description": "Theme marketplace" },
+    { "key": "pwa_push_notifications", "description": "Push notifications (PWA)" },
+    { "key": "mobile_friendly_forms", "description": "Mobile-friendly forms" },
+    { "key": "camera_photo_upload", "description": "Photo upload from camera" },
+    { "key": "voice_note_recording", "description": "Voice-note recording" },
+    { "key": "barcode_scanner", "description": "Barcode/ID scanner" }
+
+  ]
+}
