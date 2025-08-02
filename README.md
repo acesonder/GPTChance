@@ -118,3 +118,18 @@ Login as `admin` to access `admin.php` and enable features for the `admin` or `c
 ## Feature Catalog
 
 `features.json` lists all available modules. Use `admin.php` to enable or disable each feature per role. The catalog now includes user experience options like dark mode and dashboard widgets, security controls, case management enhancements, survey tools, collaboration features, analytics, admin utilities, and mobile integrations.
+
+## Standard Operating Procedures (SOP)
+
+Comprehensive operational guidelines are available in the SOP documentation:
+
+- **[SOP.md](SOP.md)** - Complete Standard Operating Procedures for all system operations, user roles, security protocols, and administrative guidelines
+- **[SOP-Overview.md](SOP-Overview.md)** - Executive summary and overview for stakeholders and management
+
+These documents provide detailed guidance for:
+- System administration and user management
+- Survey administration protocols
+- Case management workflows  
+- Data privacy and security procedures
+- Training guidelines and troubleshooting
+- Emergency procedures and crisis response
